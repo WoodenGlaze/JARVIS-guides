@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Main JARVIS set-up guide
 
-You can use the [editor on GitHub](https://github.com/WoodenGlaze/JARVIS-guides/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to the setup guide for JARVIS, a nadekobot fork.
+The setup is quite easy, first we'll go over the requirements
 
 ### Markdown
 
